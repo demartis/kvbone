@@ -7,6 +7,12 @@
   "installed": {
     "jquery/jquery.d.ts": {
       "commit": "6387999eb899d0ba02d37dd8697647718caca230"
+    },
+    "underscore/underscore.d.ts": {
+      "commit": "6387999eb899d0ba02d37dd8697647718caca230"
+    },
+    "backbone/backbone.d.ts": {
+      "commit": "6387999eb899d0ba02d37dd8697647718caca230"
     }
   }
 }
